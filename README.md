@@ -1,1 +1,2 @@
-# IT_Systems_Affected_by_AI_and_Quantum_Computers
+# AI・量子コンピュータにかかわるリスク管理
+セキュリティからガバナンスヘ
