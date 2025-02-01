@@ -14,7 +14,7 @@
 + ISBN-13: 978-4274233098
 + →[オーム社の書籍ページ](https://www.ohmsha.co.jp/book/9784274233098/)
 
-![表紙](https://github.com/ShizSak/IT_System_Affected_by_AI_and_Quantum_Computers/FrontCover.jpg)
+![表紙](https://github.com/ShizSak/IT_Systems_Affected_by_AI_and_Quantum_Computers/blob/main/FrontCover.jpg)
 
 ## 内容紹介
 これからのシステムリスク管理の常識をわかりやすく解説
