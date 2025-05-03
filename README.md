@@ -56,6 +56,6 @@
 （なし）
 
 ## 書評
-+ [画像電子学会誌, Vol.54, No.2, pp.264]{https://www.iieej.org/journal/iieej-vol-54-no-2/}
++ 田中, 図書紹介「AI・量子コンピュータにかかわるリスク管理 セキュリティからガバナンスヘ」, [画像電子学会誌 図書紹介, Vol.54, No.2, pp.264](https://www.iieej.org/journal/iieej-vol-54-no-2/)
 
 以上
