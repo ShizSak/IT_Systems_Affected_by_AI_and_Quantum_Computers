@@ -55,4 +55,7 @@
 ## 正誤表（第1版第1刷）
 （なし）
 
+## 書評
++ [画像電子学会誌, Vol.54, No.2, pp.264]{https://www.iieej.org/journal/iieej-vol-54-no-2/}
+
 以上
