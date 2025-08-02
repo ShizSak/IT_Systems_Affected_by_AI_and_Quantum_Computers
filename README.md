@@ -58,14 +58,20 @@
 ## 書評
 + 田中, 図書紹介「AI・量子コンピュータにかかわるリスク管理 セキュリティからガバナンスヘ」, [画像電子学会誌 図書紹介, Vol.54, No.2, pp.264](https://www.iieej.org/journal/iieej-vol-54-no-2/)
 
-以上
-
 ## 執筆後のAIに関する各国動向
 著書では2024年12月末までの動向を挙げましたが、その後の動きについて簡易に記します。
 ### 米国の動向
 + トランプ政権下の動きについては次のURLが有用です。
   - [特集 【一覧】トランプ政権トラッカー（大統領令・布告・覚書・発表） 地経学研究所](https://instituteofgeoeconomics.org/project/trumps-major-presidential-actions/)
-  - 以下に関連する情報を抜粋します：
-    * あ
+  - 以下にAIに何らかの関係がある情報を抜粋します（アップデート中）：
+    * [EO14299：Deploying advanced nuclear reactor technologies for national security, May 23, 2025.](https://www.whitehouse.gov/presidential-actions/2025/05/deploying-advanced-nuclear-reactor-technologies-for-national-security/)
+    * [EO14300：Restoring Gold Standard Science, May 23, 2025.](https://www.whitehouse.gov/presidential-actions/2025/05/restoring-gold-standard-science/)
+    * [EO14306：Sustaining select efforts to strengthen the nations cybersecurity and amending Executive Order 13694 and Executive Order 14144, Jun 6, 2025.](https://www.whitehouse.gov/presidential-actions/2025/06/sustaining-select-efforts-to-strengthen-the-nations-cybersecurity-and-amending-executive-order-13694-and-executive-order-14144/)
+    * [Article：OSTP issues agency guidance for gold standard science, Jun 23, 2025.](https://www.whitehouse.gov/articles/2025/06/ostp-issues-agency-guidance-for-gold-standard-science/)
+    * [Article：60+ organizations sign White House pledge to support America’s youth and invest in AI education, Jun 30, 2025.](https://www.whitehouse.gov/articles/2025/06/60-organizations-sign-white-house-pledge-to-support-americas-youth-and-invest-in-ai-education/)
+    * [Article：White House Unveils America’s AI Action Plan, Jul 23, 2025.](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/)
+    * [EO14318：Accelerating federal permitting of data center infrastructure, Jul 23, 2025.](https://www.whitehouse.gov/presidential-actions/2025/07/accelerating-federal-permitting-of-data-center-infrastructure/)
+    * [EO14319：Preventing woke AI in the federal government, Jul 23, 2025.](https://www.whitehouse.gov/presidential-actions/2025/07/preventing-woke-ai-in-the-federal-government/)
+    * [EO14320：Promoting the export of the American AI technology stack, Jul 23, 2025.](https://www.whitehouse.gov/presidential-actions/2025/07/promoting-the-export-of-the-american-ai-technology-stack/)
 
 以上
