@@ -59,3 +59,9 @@
 + 田中, 図書紹介「AI・量子コンピュータにかかわるリスク管理 セキュリティからガバナンスヘ」, [画像電子学会誌 図書紹介, Vol.54, No.2, pp.264](https://www.iieej.org/journal/iieej-vol-54-no-2/)
 
 以上
+
+## 執筆後のAIに関する各国動向
+著書では2024年12月末までの動向を挙げましたが、その後の動きについて簡易に記します。
+### 米国の動向
++ トランプ政権下の動きについては次のURLが有用です。
+  - [特集 【一覧】トランプ政権トラッカー（大統領令・布告・覚書・発表） 地政学研究所](https://instituteofgeoeconomics.org/project/trumps-major-presidential-actions/)
