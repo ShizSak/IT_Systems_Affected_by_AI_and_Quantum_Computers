@@ -65,3 +65,5 @@
 ### 米国の動向
 + トランプ政権下の動きについては次のURLが有用です。
   - [特集 【一覧】トランプ政権トラッカー（大統領令・布告・覚書・発表） 地政学研究所](https://instituteofgeoeconomics.org/project/trumps-major-presidential-actions/)
+
+以上
