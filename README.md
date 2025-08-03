@@ -63,7 +63,7 @@
 ### 米国の動向
 + トランプ政権下の動きについては次のURLが有用です。
   - [特集 【一覧】トランプ政権トラッカー（大統領令・布告・覚書・発表） 地経学研究所](https://instituteofgeoeconomics.org/project/trumps-major-presidential-actions/)
-  - 以下にAIに何らかの関係がある情報を抜粋します（2025年8月3日 アップデート）：
+  - 以下にAIに何らかの関係がある情報を抜粋するとともに、米商務省の動きを追記します（2025年8月3日 アップデート）：
     * [EO14148：Initial Rescissions of Harmful Executive Orders and Actions, on Jan 20, 2025.](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/)
     * [EO14177：President’s Council of Advisors on Science and Technology, on Jan 23, 2025.](https://www.whitehouse.gov/presidential-actions/2025/01/presidents-council-of-advisors-on-science-and-technology/)
     * [EO14179：Removing Barriers to American Leadership in Artificial Intelligence, on Jan 23, 2025.](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/)
